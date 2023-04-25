@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Max+Sauerbrey.;Java+Full+Stack+Developer&center=true&size=30">
+  </a>
+</h1>
 <!--
 **MaxSauerbrey/maxsauerbrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
